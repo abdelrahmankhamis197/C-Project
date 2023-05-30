@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1680659336 source:c:\users\abdo\desktop\clinc_managment_system\linkedlist.c
+	"LinkedList.h"
+
+1680664924 c:\users\abdo\desktop\clinc_managment_system\linkedlist.h
+
+1680758272 source:c:\users\abdo\desktop\clinc_managment_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"RRECORD.h"
+	"Admin_Mode.h"
+	"User_Mode.h"
+
+1680751475 source:c:\users\abdo\desktop\clinc_managment_system\admin_mode.c
+	"RRECORD.h"
+	"Admin_Mode.h"
+	"Strings.h"
+
+1680752070 c:\users\abdo\desktop\clinc_managment_system\admin_mode.h
+
+1680752857 source:c:\users\abdo\desktop\clinc_managment_system\user_mode.c
+	"RRECORD.h"
+	"User_Mode.h"
+
+1680752857 c:\users\abdo\desktop\clinc_managment_system\user_mode.h
+
+1680752903 c:\users\abdo\desktop\clinc_managment_system\rrecord.h
+
+1680756623 source:c:\users\abdo\desktop\clinc_managment_system\rrecord.c
+	"RRECORD.h"
+	<stdio.h>
+	"Strings.h"
+
+1680744139 c:\users\abdo\desktop\clinc_managment_system\strings.h
+
+1680748098 source:c:\users\abdo\desktop\clinc_managment_system\strings.c
+	"Strings.h"
+
